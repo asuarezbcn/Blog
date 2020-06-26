@@ -7,5 +7,7 @@ Estoy haciendo una practica de Git.
 
 Estamos haciendo historia.
 
+Ademas he visto como ver las diferencias entre commits
+
 Seguimos...
 
