@@ -1,4 +1,31 @@
 body{
     background-color: aliceblue;
     text-align: center;
+    color: gray;
+    margin: 0 auto;
+    font-family: 'Arial';
+}
+h1{text-align: center;}
+.container{
+    border: 1px solid lightgray;
+    padding: 1em;
+    width: 60%;
+    text-align: center;
+    margin: 0 auto;
+    text-align: left;
+
+}
+.header{
+    background-color: lightgreen;
+    height: 6em;
+    display: flex;
+    box-shadow: 0px 5px 10px 10px lightgrey;
+}
+
+#title{
+    font-size: 2em;
+    font-weight: 700;
+    color:gray;
+    margin: auto 0;
+    padding-left: .5em;
 }
