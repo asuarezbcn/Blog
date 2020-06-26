@@ -1,4 +1,21 @@
 body{
     background-color: aliceblue;
     text-align: center;
+    color: gray;
+    margin: 0 auto;
+}
+h1{text-align: center;}
+.container{
+    border: 1px solid lightgray;
+    padding: 1em;
+    width: 60%;
+    text-align: center;
+    margin: 0 auto;
+    text-align: left;
+
+}
+.header{
+    background-color: lightgreen;
+    height: 6em;
+
 }
