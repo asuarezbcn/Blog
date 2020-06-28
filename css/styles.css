@@ -29,12 +29,11 @@ h1{text-align: center;}
     margin: auto 0;
     padding-left: .5em;
 }
-<<<<<<< HEAD
 #image {
     width: 64px;
     vertical-align: center;
     padding: .5em;
-=======
+}
 #footer {
     background-color: darkslategrey;
     margin: 0;
@@ -43,5 +42,4 @@ h1{text-align: center;}
     color: white;
     padding: 1em;
     margin:0;
->>>>>>> footer
 }
