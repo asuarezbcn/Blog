@@ -1,0 +1,5 @@
+README.md
+blogpost.html
+css
+historia_n.txt
+imagen
