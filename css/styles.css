@@ -8,7 +8,7 @@ body{
 h1{text-align: center;}
 .container{
     border: 1px solid lightgray;
-    padding: 1em;
+    padding: 0;
     width: 60%;
     text-align: center;
     margin: 0 auto;
@@ -28,4 +28,13 @@ h1{text-align: center;}
     color:gray;
     margin: auto 0;
     padding-left: .5em;
+}
+#footer {
+    background-color: darkslategrey;
+    margin: 0;
+}
+.footer {
+    color: white;
+    padding: 1em;
+    margin:0;
 }
